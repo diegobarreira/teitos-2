@@ -7,7 +7,7 @@ export const metadata: Metadata = {
   title: "Venta Huevos",
   description: "Gestión de venta de huevos a granjas (demo mock)",
 };
-
+//coment
 export default function RootLayout({
   children,
 }: {
